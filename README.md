@@ -2,7 +2,7 @@
 
 # Excel Data Analysis Project
 
-This project involves data analysis using Excel tools and functions to extract insights, visualize patterns, and summarize key information from a dataset.
+This project showcases data analysis and visualization techniques using Microsoft Excel. It demonstrates how to clean, organize, and extract insights from structured data using Excel formulas, pivot tables, and charts. Ideal for beginners looking to strengthen their Excel skills in real-world scenarios.
 
 ## 🛠️ Tools Used
 
